@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046259401468",
+    "project_id": "my-day-c1af2",
+    "storage_bucket": "my-day-c1af2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046259401468:android:438727b05f4f8b00fc8d79",
+        "android_client_info": {
+          "package_name": "com.example.fit5046assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046259401468-q98ac1vero1piei6i1ibv1aedsbcdsm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNNIINxbQWupXZJ6w3XFksOwTYulSFuqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046259401468-q98ac1vero1piei6i1ibv1aedsbcdsm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
